@@ -1,0 +1,1 @@
+this repository is dedicated to represent a Natural Language Processing (NLP) model for classifying movie genres based on descriptions in both Persian and English. Leveraging the BERT (Bidirectional Encoder Representations from Transformers) model.
