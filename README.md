@@ -45,17 +45,30 @@ This repository contains a machine learning model designed to classify movies in
    -Encoding Categorical Variables
 8. **Fine-tuning and model evaluation**
 
-## Features
+## Getting Started
 
-- **Genre Classification**: Classify movie plots into predefined genres.
-- **Accuracy**: Evaluate model performance with detailed metrics.
-- **Customizable**: Easily update the dataset or model parameters to improve performance.
+### Prerequisites
 
-## Installation
-
-To get started with the Movie Genre Classifier project, follow these steps:
-
-1. **Clone the Repository**:
-
+- Python 3.x
+- Required libraries:
    ```bash
-   git clone https://github.com/alirezamirrokni/MovieGenreClassifier-project.git
+   numpy==1.21.2
+   pandas==1.3.3
+   scikit-learn==1.0.1
+   matplotlib==3.4.3
+   seaborn==0.11.2
+   nltk==3.6.3
+   hazm==0.7.0
+   wordcloud==1.8.1
+   python-bidi==0.4.2
+   transformers==4.12.5
+   imbalanced-learn==0.9.1
+   ```
+
+Install the dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+## Usage
+
