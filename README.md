@@ -75,13 +75,13 @@ pip install -r requirements.txt
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/alirezamirrokni/DeepFNNs-project.git
+    git clone https://github.com/alirezamirrokni/MovieGenreClassifier-project.git
     ```
 
 2. **Navigate to the project directory**:
 
     ```bash
-    cd DeepFNNs-project/(part1 | part2)
+    cd DMovieGenreClassifier-project
     ```
     
-3. **Open `.ipynb` file and run its cells**.
+3. **Open `AI_NLP_Project.ipynb` file and run its cells**.
